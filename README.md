@@ -8,7 +8,7 @@ Technology used:
     <li>jQuery</li>
     <li>GIPHY's API</li>
     <li>AJAX</li>
-<ul>
+</ul>
 
 How it works:
 <ul>
